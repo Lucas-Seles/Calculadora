@@ -62,6 +62,8 @@ color:#E14F0C;
     padding: 2px;
     width: 207px;
     background-color: black;
+    line-height: 2rem;
+    min-height: 2rem;
 }
 #preresultado{
     margin-top: -11px;
@@ -70,4 +72,6 @@ color:#E14F0C;
     color: gray;
     width: 207px;
     background-color: black;
+    line-height: 2rem;
+    min-height: 2rem;
 }
